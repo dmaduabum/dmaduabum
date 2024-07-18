@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/DoHaiSon/DoHaiSon/master/banner_image.jpg" alt="Banner">
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Datadili/count.svg" />

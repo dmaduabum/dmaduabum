@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/DoHaiSon/DoHaiSon/master/banner_image.jpg" alt="Banner">
+<img src="https://raw.githubusercontent.com/Datadili/Datadili/master/banner_image.jpg" alt="Banner">
 
 <p align="center"> 
   Visitor count<br>

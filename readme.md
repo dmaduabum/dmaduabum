@@ -7,7 +7,7 @@
 
 - 🎓 I’m currently an Economics PhD Student at the University of Michigan
 - 🔍 I’m on the hunt for ML/Data Science/Econometrics Internships for Summer 2025
-- 👯 I’m open to research collaborations
+- 👯 I’m open to economic research collaborations
 - 💬 Ask me about any questions related to ML x Econ resources
 - 📫 How to reach me: [maduabum@umich.edu](mailto:maduabum@umich.edu)
 - 😄 Pronouns: She/Her

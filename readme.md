@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Datadili/Datadili/master/banner_before.jpg" alt="Banner">
+<img src="https://raw.githubusercontent.com/Datadili/Datadili/master/banner-image.jpg" alt="Banner">
 
 <p align="center"> 
   Visitor count<br>

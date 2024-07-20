@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/Datadili/count.svg" />
 </p>
 
-### Hi 👋, I am [Dili Maduabum](https://Datadili.github.io/) from Nigeria.
+### Hi 👋, I am [Dili Maduabum](https://dmaduabum.github.io/) from Nigeria.
 
 - 🎓 I’m currently an Economics PhD Student at the University of Michigan
 - 🔍 I’m on the hunt for ML/Data Science/Econometrics Internships for Summer 2025

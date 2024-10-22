@@ -2,7 +2,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Datadili/count.svg" />
+  <img src="https://profile-counter.glitch.me/dmaduabum/count.svg" />
 </p>
 
 ### Hi 👋, I am [Dili Maduabum](https://dmaduabum.github.io/) from Nigeria.

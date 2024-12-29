@@ -8,8 +8,6 @@
 ### Hi 👋, I am [Dili Maduabum](https://dmaduabum.github.io/) from Nigeria.
 
 - 🎓 I’m currently an Economics (soon joint Statistics) PhD Student at the University of Michigan
-- 👯 I’m open to economic research collaborations
-- 💬 Ask me about any questions related to ML x Econ resources
+- 👯 My research interests are ML in casual inference and consumer decision making
 - 📫 How to reach me: [maduabum@umich.edu](mailto:maduabum@umich.edu)
-- 😄 Pronouns: She/Her
 

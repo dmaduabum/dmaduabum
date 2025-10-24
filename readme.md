@@ -1,9 +1,5 @@
 <img src="https://raw.githubusercontent.com/Datadili/Datadili/master/banner-image.jpg" alt="Banner">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/dmaduabum/count.svg" />
-</p>
 
 ### Hi 👋, I am [Dili Maduabum](https://dmaduabum.github.io/) from Nigeria.
 

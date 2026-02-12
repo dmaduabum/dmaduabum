@@ -4,6 +4,6 @@
 ### Hi 👋, I am [Dili Maduabum](https://dmaduabum.github.io/) from Nigeria.
 
 - I’m currently an Economics (soon joint Statistics) PhD Student at the University of Michigan
-- My research interests are ML in casual inference, social networks and consumer decision making
+- My research interests are casual inference, consumer decision making and the Economics of AI
 - How to reach me: [maduabum@umich.edu](mailto:maduabum@umich.edu)
 

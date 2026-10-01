@@ -3,7 +3,7 @@
 
 ### Hi 👋, I am [Dili Maduabum](https://dmaduabum.github.io/) from Nigeria.
 
-- I’m currently an Economics (soon joint Statistics) PhD Student at the University of Michigan
+- I’m currently a Masters student in Economics at the University of Michigan
 - My research interests are causal inference, consumer decision making and the Economics of AI
 - How to reach me: [maduabum@umich.edu](mailto:maduabum@umich.edu)
 
